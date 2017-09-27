@@ -1,8 +1,9 @@
 # hello-world
 <html>
   <title>Hello World</title>
+   <header>Hello world</header>
   <body>
-  <header>Hello world</header>
   <p>hello everyone</p>
   </body>
-  </html>
+  </header>
+ </html>
